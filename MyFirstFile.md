@@ -1,3 +1,4 @@
+We are practicing Git101.
 # Markdown-shortcuts
 # 1-Headings
 How to give headings in Markdown files?
